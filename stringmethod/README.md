@@ -11,3 +11,10 @@ it is used to convert all uppercase letters in string to lowercase.it does not m
 it is used to convert all lowercase letters in string to uppercase. this method also dose not modify the orginal string but returns a new string with all characters in uppercase. it only affects lowercase letters other characters remain the same. 
 # str . title()
 it is used to convert a string so that each word starts with an uppercase letter and the rest of the letters are in lowercase. simply it is used to capitallize the first letter of each word. it makes all other letters lower case even if the original text had a mixing casing.
+# str.capitalize()
+this string method is used for changing the first character of the string to uppercase and the rest to lowercase. here if the string starts with non alphabetic character it remains the same . this string method can be used for formatting names anad titles.
+# str.swapcase()
+this string method is used for swapping the case of all characters in the string . it changes the uppercase to lowercase and the lowecase to uppercase. here also the non alphabetic caharacters remains the same and it does not modify th original string.
+# str.isupper()
+this string method is used to check is the alphabets inside the string are all in uppercase.
+it has a true and false return value.this method also ignors non alphabetic characters. when the alphabets inside the string are uppercase it returns true value .otherwise if the alphabets are lowercase it returns false value .
