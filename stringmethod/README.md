@@ -18,3 +18,12 @@ this string method is used for swapping the case of all characters in the string
 # str.isupper()
 this string method is used to check is the alphabets inside the string are all in uppercase.
 it has a true and false return value.this method also ignors non alphabetic characters. when the alphabets inside the string are uppercase it returns true value .otherwise if the alphabets are lowercase it returns false value .
+# str.strip()
+this string type is used for removing leading and trailing whitespaces or specified characters from the string. the whitespace refers to the invisible characters that creates empty space in the text. this method also does not modify the orginal characters.
+# str.lstrip()
+used for removing the leading whitespace or specified character from the string.
+# str.rstrip()
+used for removing the trailing whitespace or specified chracter fom the string.
+# str.replace()
+this method is used for replacing occurrance of a substring with another substring inside the string .  this string method is different from the others because it modifies the original string . this method is also case sensetive .
+
