@@ -26,4 +26,11 @@ used for removing the leading whitespace or specified character from the string.
 used for removing the trailing whitespace or specified chracter fom the string.
 # str.replace()
 this method is used for replacing occurrance of a substring with another substring inside the string .  this string method is different from the others because it modifies the original string . this method is also case sensetive .
-
+# str.split()
+this method is used for dividing string into a list of substring based on a specified separator.
+# str.join()
+this method is the inverse of str.split(). it is used for making the list strings or iterable strings into single string by combininf them.
+ # str.find() 
+ this method is used for searching for a substring within a string and returns a lowest index where it is found . this string method is also case sensetive . if it does not found the substring it returns -1.
+ # str.index()
+ thid method is the same with str.find(). but it raises a value error when substring is not found rather than returning -1.
