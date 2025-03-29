@@ -36,17 +36,3 @@ this method is the inverse of str.split(). it is used for making the list string
  this method is used for searching for a substring within a string and returns a lowest index where it is found . this string method is also case sensetive . if it does not found the substring it returns -1.
  # str.index()
  thid method is the same with str.find(). but it raises a value error when substring is not found rather than returning -1.
- # str.count()
- this strin gmethod is used for determinig the number of substrings in a given string . this method also is case sensetive and it allows to specify search boundaries. it returns 0 if it the specified string not found.
- # str.startswith()
- this method is used check if a string begins with a specified substring and returns True or False value . It's useful for validation and  filtering.
- # str.endswith()
- this method is used for checking if a string ends with a specified substring and returns true or false . it is the opposite of str.startswith . this method deals with the suffix whereas the later deals with prefix.
- # str.isalpha()
- we use this string method inorder to check if all characters inside the string are alphabetic . if all the characters are alphabetic it returns true value otherwise false value. this method only returns true if every single character is letter doesn't accept whitespace , numbers and other symbols .
- # str.isdigit()
- we use this string method in order toc check is all charcters inside the string are digits .
- # str.isalnum()
- this method checks if all characters in a string are alphanumeric letteror digits and the string contains at least one character.it will return true if all characters are letters and numbers otherwise it returns false value . empty string also has false value .
-# str.isspace()
-this method is used to check if all characters inside the string are whitespace characters. it returns true if the string only contians whitespace and not empty,otherwise it returns false.
