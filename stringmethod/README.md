@@ -48,3 +48,5 @@ this method is the inverse of str.split(). it is used for making the list string
  we use this string method in order toc check is all charcters inside the string are digits .
  # str.isalnum()
  this method checks if all characters in a string are alphanumeric letteror digits and the string contains at least one character.it will return true if all characters are letters and numbers otherwise it returns false value . empty string also has false value .
+# str.isspace()
+this method is used to check if all characters inside the string are whitespace characters. it returns true if the string only contians whitespace and not empty,otherwise it returns false.
