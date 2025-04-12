@@ -1,0 +1,9 @@
+book = ['maths' , 'english', 'science', 'maths', 'english', ]
+clothes = ['shirt', 'trouser', 'socks', 'shirt', 'trouser', 'shirt']
+number = [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,2,3,3,3,4,4,4,5]
+book_count = book.count('maths')
+clothes_count = clothes.count('shirt')
+number_count = number.count(1)
+print(book_count)
+print(clothes_count)
+print(number_count)

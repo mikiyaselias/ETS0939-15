@@ -14,7 +14,7 @@ it is used to convert a string so that each word starts with an uppercase letter
 # str.capitalize()
 this string method is used for changing the first character of the string to uppercase and the rest to lowercase. here if the string starts with non alphabetic character it remains the same . this string method can be used for formatting names anad titles.
 # str.swapcase()
-this string method is used for swapping the case of all characters in the string . it changes the uppercase to lowercase and the lowecase to uppercase. here also the non alphabetic caharacters remains the same and it does not modify th original string.
+this string method is used for swapping the case of all characters in the string . it changes the uppercase to lowercase and the lowecase to uppercase. here also the non alphabetic characters remains the same and it does not modify th original string.
 # str.isupper()
 this string method is used to check if the alphabets inside the string are all in uppercase.
 it has a true and false return value.this method also ignors non alphabetic characters. when the alphabets inside the string are uppercase it returns true value .otherwise if the alphabets are lowercase it returns false value .
